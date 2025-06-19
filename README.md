@@ -6,6 +6,7 @@ This is a simple Python keylogger that records keyboard input and saves it to a 
 
 Requirements:
 MacOS
+
 Python 3
 
 How it works
