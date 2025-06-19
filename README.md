@@ -4,6 +4,10 @@ Keylogger Project
 
 This is a simple Python keylogger that records keyboard input and saves it to a file.
 
+Requirements:
+MacOS
+Python 3
+
 How it works
 
 	•	The script listens for key presses.
@@ -28,3 +32,4 @@ Notes
 
 	•	This project is for educational purposes only.
 	•	Please do not use this script in ways that violate privacy or laws.
+ 	•	Errors for special characters are handled.
